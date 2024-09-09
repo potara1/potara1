@@ -27,12 +27,11 @@
 
 ### :woman_technologist: About Me :
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
 - :telescope: Currently working at HSE university as Teacher Assistent for Data Analysis classes.
-
 - :seedling: Studying at HSE university of Russia, just graduated from Yandex Practicum.
-
 - :zap: In my free time, I learn more about stats and read tech articles.
-
+- :star2: Always ready for new things and I love learning!
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-potara1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/potara1)
 
 
